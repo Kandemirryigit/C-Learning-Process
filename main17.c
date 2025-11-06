@@ -1,3 +1,6 @@
+/*
+Learning how to define an array
+*/
 
 #include <stdio.h>
 
@@ -11,5 +14,6 @@ int main()
     {
         printf("\n%d",numbers[i]);
     }
+
 
 }
