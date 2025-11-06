@@ -15,9 +15,12 @@ int main()
     {
         printf("\nThis is an infinitive loop");
     }
+
+    return 0;
 }
 
 
 /*Infinite loops are good only when you control them properly —
 like in menu systems, servers, or games.
+
 Otherwise, they can cause your program to hang or crash.*/ 
