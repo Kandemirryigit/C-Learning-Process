@@ -19,5 +19,6 @@ int main()
     printf("\nCharacter3 is :%c",character3);
     printf("\nCharacter4 is :%c",character4);
 
+    return 0;
 
 }
