@@ -25,6 +25,9 @@ int main()
         printf("You are so much old");
     }
 
+    return 0;
+
 }
+
 
 // if you are just going to write one line after if,else if,else then you don't need to use curly brackets
