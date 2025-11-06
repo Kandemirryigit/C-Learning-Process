@@ -29,4 +29,7 @@ int main()
     {
         printf("\nB is false");
     } 
+
+    return 0;
+
 }
