@@ -1,5 +1,5 @@
 /*
-- Take numbers form keyboard to an array
+- Take numbers from keyboard to an array
 - Show an array's characters on the screen
 - Find average of numbers
 - Find the max value in the array
@@ -68,5 +68,6 @@ int main(void)
     printf("\nMin value is: %.2f",min);
 
 }
+
 
 
