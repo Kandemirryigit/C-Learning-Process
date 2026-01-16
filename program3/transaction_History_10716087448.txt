@@ -1,0 +1,2 @@
+***SEE INFORMATION*** Id: 10716087448 : Name: yigit : Surname: kandemir : Username: kandemirryigit / Saw The Balance Information. Balance was: 200 
+***SUCCESSFUL WITHDRAW***    Id: 10716087448 : Name: yigit : Surname: kandemir : Username: kandemirryigit / WITHDRAW  100$ money.Previous Balance: 200$ New Balance: 100$
