@@ -1,3 +1,3 @@
-* I created this repo to store and overview my c programming language learning proccess<br/>
-* In this repo you can find basic programs that created with c<br/>
-* You can also find fundamental things about c programming language<br/>
+* This repository serves as a record of my learning journey in the C programming language.<br/>
+* It contains fundamental concepts such as variables, data types, pointers, memory management, functions, loops, and basic programming examples developed during my study process.<br/>
+* The goal of this repository is to strengthen my understanding of low-level programming and improve my knowledge of how computers manage memory and execute programs.<br/>
